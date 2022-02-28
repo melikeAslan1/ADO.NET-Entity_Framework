@@ -1,0 +1,21 @@
+ADO.NET
+Klasik: 1) Bağlantılı Yöntem   2)Bağlantısız Yöntem
+
+EF: 1) DBF.   2) Model F.      3) 1.DBF 2.Model F.
+
+Connection String:
+
+
+**sql çoka çok, çok a tek ilişkisi bak.
+
+sql den önce normalization eğitimi verilir.
+1. NF
+2. NF
+3. NF
+4. NF
+5. NF
+
+
+İÇİNDE FOREİGN KEY OLMAYAN TABLOLARA YARDIMCI TABLO DENİR.
+
+

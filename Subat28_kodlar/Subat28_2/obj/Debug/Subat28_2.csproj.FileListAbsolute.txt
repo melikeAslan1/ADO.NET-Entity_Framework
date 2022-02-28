@@ -1,0 +1,10 @@
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\bin\Debug\Subat28_2.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\bin\Debug\Subat28_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\bin\Debug\Subat28_2.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.Form1.resources
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.Properties.Resources.resources
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.csproj.GenerateResource.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Subat28_kodlar\Subat28_2\obj\Debug\Subat28_2.pdb
