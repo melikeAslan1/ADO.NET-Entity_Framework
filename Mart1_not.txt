@@ -1,0 +1,11 @@
+**VERİ TABANI PROJESİ**
+
+spagetti kod: kodun karmaşık olması.
+
+model: veri taşıyan class larımızdır, tablo sayısı kadar class olur.
+
+
+source kodu gidip değiştirmek iyideğil.
+
+
+ CONNECTİON STRİNG İÇİN: tools- connect to database- server name. koy - KİTAPdb Yİ SEÇ- ADVANCED DE- COPY YAP.
