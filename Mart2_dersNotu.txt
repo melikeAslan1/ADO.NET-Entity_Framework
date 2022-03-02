@@ -1,0 +1,30 @@
+update ve delete kullanırken çok çpk dikkatli olmak gerekiyor. 
+
+truncate table deneme --> sql komutu.
+
+    ***KATMANLI MİMARİ***
+
+TEMEL KATMANLI MİMARİ: 
+n-Layer(aynı bilgisayrdaysa)   n-Tier(farklı bilgisayarlardaysa)
+n genelde 3 diye olur ama 10 bile olabilir, 3 olmak zorunda değil.
+
+n i artıracaksan düşün gerçekten ihtiyacın var mı bu kadara.
+
+3 KATMAN:
+1. DAL Katmanı(Data Access Layer): veri tabanı ile ilgili katman
+2.BL yada BLL (Business Layer yada Business Logic Layer): mesela hesaplama yaptıracaksın BL de yaptırırsın. mesela bir rapor alıcaksın
+BL den aırsın. 
+3. Presentation Layer (Sunum Katmanı): al ver yapıcak başka bişey yapmayacak. presentation ile DAL arasındaki iletişim.
+
+Katmanlı mimari bizim ne işimize yarar?
+
+Katmanlı mimari yazarak zaman ve para kaybederim aslında. 
+marifet: uzun vadede bir yazılım üzerinde güncelleme falan geldiğinde buna adapte olabilmek.
+
+DB - DAL <-> BLL <-> P.L <->  Console, web, windows uygulaması. (foto cektim)
+PRESENTATİON LAYER CONSOLE WEB YADA WİNDOWS UYGULAMASI OLABİLİR.
+
+
+katmanlı mimaride mantıksal ve fiziksel olarak ayırıyorum projeyi.
+
+

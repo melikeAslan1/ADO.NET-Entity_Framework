@@ -1,0 +1,2 @@
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.CoreCompileInputs.cache

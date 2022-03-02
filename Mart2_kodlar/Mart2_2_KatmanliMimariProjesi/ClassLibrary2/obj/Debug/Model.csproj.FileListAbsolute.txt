@@ -1,0 +1,6 @@
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
