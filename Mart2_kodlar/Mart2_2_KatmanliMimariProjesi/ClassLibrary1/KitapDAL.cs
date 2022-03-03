@@ -16,7 +16,7 @@ namespace DAL
             conn.Open();
             SqlCommand cmd = new SqlCommand("INSERT INTO Kitaplar(KitapAdi,KategoriID,YazarID) VALUES (@ad,@kID,@yID)", conn);
             cmd.Parameters.Clear();
-            cmd.Parameters.AddWithValue("@ad", t.KitapAd);
+            cmd.Parameters.AddWithValue("@ad", t.KitapAdi);
             cmd.Parameters.AddWithValue("@kID", t.KategoriID);
             cmd.Parameters.AddWithValue("@yID", t.YazarID);
 
@@ -37,7 +37,7 @@ namespace DAL
                 Kitap kitap = new Kitap()
                 {
                     KitapID = Convert.ToInt32(dr[0]),
-                    KitapAd = dr[1].ToString(),
+                    KitapAdi = dr[1].ToString(),
                     KategoriID = dr.IsDBNull(2) ? 0 : Convert.ToInt32(dr[2]),
                     YazarID = dr.IsDBNull(3) ? 0 : Convert.ToInt32(dr[3]),
                 };

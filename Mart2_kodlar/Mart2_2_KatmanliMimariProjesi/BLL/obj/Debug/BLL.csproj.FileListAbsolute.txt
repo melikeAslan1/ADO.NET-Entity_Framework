@@ -1,0 +1,2 @@
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache

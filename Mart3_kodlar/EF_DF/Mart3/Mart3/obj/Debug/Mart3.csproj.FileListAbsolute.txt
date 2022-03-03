@@ -1,0 +1,15 @@
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\Mart3.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\Mart3.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\Mart3.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\EntityFramework.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\EntityFramework.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.Form1.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.Properties.Resources.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.csproj.GenerateResource.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart3_kodlar\EF_DF\Mart3\Mart3\obj\Debug\Mart3.pdb

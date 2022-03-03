@@ -1,2 +1,11 @@
 C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.AssemblyReference.cache
 C:\Users\303MELİKE_SABAH\Desktop\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\bin\Debug\ClassLibrary2.dll
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\bin\Debug\ClassLibrary2.pdb
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\303MELİKE_SABAH\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_2_KatmanliMimariProjesi\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
