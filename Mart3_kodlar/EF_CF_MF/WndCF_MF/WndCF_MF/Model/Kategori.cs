@@ -11,5 +11,9 @@ namespace WndCF_MF.Model
         public int KategoriID { get; set; }
 
         public string KategoriAdi { get; set; }
+        public  ICollection<Film> Filmler { get; set; }
+
+
+
     }
 }

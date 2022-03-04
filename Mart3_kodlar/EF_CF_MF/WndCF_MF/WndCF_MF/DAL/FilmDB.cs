@@ -15,9 +15,6 @@ namespace WndCF_MF.DAL
             Database.SetInitializer(new InitDB());
 
         }
-
-
-
         public DbSet<Film> Filmler { get; set; }
 
         public DbSet<Oyuncu> Oyuncular { get; set; }
@@ -27,6 +24,13 @@ namespace WndCF_MF.DAL
         public DbSet<Kategori>  Kategoriler { get; set; }
 
         public DbSet<Yonetmen> Yonetmenler { get; set; }
+
+
+
+
+
+
+
 
     }
 }

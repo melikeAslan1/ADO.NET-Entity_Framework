@@ -17,5 +17,10 @@ namespace WndCF_MF.Model
         public int OyuncuID { get; set; }
 
         public string RolAdi { get; set; }
+
+
+        public virtual Film Film { get; set; }
+
+        public virtual Oyuncu Oyuncu { get; set; }
     }
 }

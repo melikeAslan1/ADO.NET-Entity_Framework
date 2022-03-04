@@ -16,6 +16,8 @@ namespace WndCF_MF.Model
 
         public string Cinsiyet { get; set; }
 
+        public virtual ICollection<Film_Oyuncu> Filmler { get; set; }
+
 
     }
 
