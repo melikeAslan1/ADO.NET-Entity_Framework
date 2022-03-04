@@ -1,0 +1,15 @@
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.Properties.Resources.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.csproj.GenerateResource.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\Mart4_1.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\Mart4_1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\Mart4_1.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\EntityFramework.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\EntityFramework.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.Form1.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_1\obj\Debug\Mart4_1.pdb

@@ -1,0 +1,15 @@
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\Mart4_2.exe.config
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\Mart4_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\Mart4_2.pdb
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\EntityFramework.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\EntityFramework.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2_CF_DF.csproj.AssemblyReference.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2.Form1.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2.Properties.Resources.resources
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2_CF_DF.csproj.GenerateResource.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2_CF_DF.csproj.CoreCompileInputs.cache
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2_CF_DF.csproj.CopyComplete
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2.exe
+C:\Users\303MELİKE_SABAH\Desktop\Mart4_2\Mart4_2\obj\Debug\Mart4_2.pdb
