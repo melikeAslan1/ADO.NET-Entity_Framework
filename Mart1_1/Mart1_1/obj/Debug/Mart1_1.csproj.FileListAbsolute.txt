@@ -8,3 +8,10 @@ C:\Users\303MELİKE_SABAH\Desktop\Mart1_kodlar\Mart1_1\Mart1_1\bin\Debug\Mart1_1
 C:\Users\303MELİKE_SABAH\Desktop\Mart1_kodlar\Mart1_1\Mart1_1\bin\Debug\Mart1_1.pdb
 C:\Users\303MELİKE_SABAH\Desktop\Mart1_kodlar\Mart1_1\Mart1_1\obj\Debug\Mart1_1.exe
 C:\Users\303MELİKE_SABAH\Desktop\Mart1_kodlar\Mart1_1\Mart1_1\obj\Debug\Mart1_1.pdb
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.Form1.resources
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.Properties.Resources.resources
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.csproj.GenerateResource.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.exe
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart1_1\Mart1_1\obj\Debug\Mart1_1.pdb

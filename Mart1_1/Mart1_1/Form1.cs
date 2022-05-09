@@ -41,9 +41,12 @@ namespace Mart1_1
 
             cmbKategori.ValueMember = "KategoriID";
 
-            cmbKategori
+            cmbYazar.DisplayMember = "YazarADSOYAD";
+            cmbYazar.ValueMember = "YazarID";
 
         }
+
+
 
         private void label1_Click(object sender, EventArgs e)
         {

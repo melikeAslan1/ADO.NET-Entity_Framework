@@ -168,7 +168,7 @@ namespace Mart1_1.DAL
 
             cmd.Parameters.AddWithValue("@katID", kitap.KategoriID);
 
-            cmd.Parameters.AddWithValue("@yazarID", kitap.)
+            cmd.Parameters.AddWithValue("@yazarID", kitap.YazarID);
             
         }
 

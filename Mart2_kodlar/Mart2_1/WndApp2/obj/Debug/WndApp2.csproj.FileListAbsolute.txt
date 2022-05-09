@@ -1,0 +1,10 @@
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\bin\Debug\WndApp2.exe.config
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\bin\Debug\WndApp2.exe
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\bin\Debug\WndApp2.pdb
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.csproj.AssemblyReference.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.Form1.resources
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.Properties.Resources.resources
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.csproj.GenerateResource.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.csproj.CoreCompileInputs.cache
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.exe
+C:\Users\Melike\Documents\GitHub\ADO.NET\Mart2_kodlar\Mart2_1\WndApp2\obj\Debug\WndApp2.pdb
